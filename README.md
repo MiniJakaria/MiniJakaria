@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MiniJakaria
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Cyber Security 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
